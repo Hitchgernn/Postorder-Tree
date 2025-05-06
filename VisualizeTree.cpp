@@ -76,6 +76,7 @@ void exportToDot(Node* root, const string& filename) {
 }
 
 int main() {
+    // insert node here
     Node* root = new Node("-27");
     // root->left = new Node("3");
     // root->right = new Node("-9");

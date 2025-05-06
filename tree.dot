@@ -1,0 +1,8 @@
+digraph ExpressionTree {
+    node [shape=circle, style=filled, color=lightblue, fontname="Helvetica"];
+    "1958196119504" [label="*"];
+    "1958196119504" -> "1958196116944";
+    "1958196116944" [label="3"];
+    "1958196119504" -> "1958196117648";
+    "1958196117648" [label="-9"];
+}
